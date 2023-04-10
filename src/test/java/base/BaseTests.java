@@ -22,7 +22,7 @@ public class BaseTests {
 
     @AfterClass
     public void tearDon(){
-        //driver.quit();
+        driver.quit();
 
     }
 }
